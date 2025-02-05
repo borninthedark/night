@@ -4,7 +4,7 @@ theme = "glim-midnight"
 
 [params]
     title = "Terok Noir"
-    phrases = ["DevOps", "Security", "Python", "Golang", "Cloud", "Microservices", "Automation"]
+    phrases = ["DevOps", "Security", "Python", "Golang", "Cloud", "Automation"]
     links = [
     {name = "Github", url = "https://github.com/borninthedark", newTab = true},
     {name = "Author", url = "https://princetonstrong.online/"}, 
