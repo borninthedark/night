@@ -1,6 +1,6 @@
 baseURL = "https://home.princetonstrong.online"
 languageCode = "en-us"
-theme = "midnight"
+theme = "glim-midnight"
 
 [params]
     title = "Terok Noir"
