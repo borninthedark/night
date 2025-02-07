@@ -1,4 +1,4 @@
-baseURL = "https://start.princetonstrong.online"
+baseURL = "https://princetonstrong.online"
 languageCode = "en-us"
 theme = "glim-midnight"
 
@@ -7,7 +7,7 @@ theme = "glim-midnight"
     phrases = ["DevOps", "Security", "Cloud", "Terraform", "Python"]
     links = [
     {name = "Github", url = "https://github.com/borninthedark/", newTab = true},
-    {name = "Author", url = "https://princetonstrong.online/"},
+    {name = "Author", url = "https://blog.princetonstrong.online/"},
     {name = "Gallery", url = "https://gallery.princetonstrong.online"},
     {name = "Hugo", url = "https://gohugo.io/"},    
     ] 
