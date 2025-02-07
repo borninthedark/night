@@ -1,0 +1,15 @@
+baseURL = "https://start.princetonstrong.online"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "Terok Noir"
+    phrases = ["DevOps", "Security", "Cloud", "Terraform", "Python"]
+    links = [
+    {name = "Github", url = "https://github.com/borninthedark/", newTab = true},
+    {name = "Author", url = "https://princetonstrong.online/"},
+    {name = "Gallery", url = "https://gallery.princetonstrong.online"},
+    {name = "Hugo", url = "https://gohugo.io/"},    
+    ] 
+    backgroundVideo= "bg.mp4"
+    footer = "Borrowed with ❤️ by <a href='https://princetonstrong.online/' target='_blank'>Princeton A. Strong</a>"
