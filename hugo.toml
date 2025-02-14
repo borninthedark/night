@@ -3,14 +3,13 @@ languageCode = "en-us"
 theme = "glim-midnight"
 
 [params]
-    title = "Obsidian Order"
-    phrases = ["DevSecOps", "Futurist", "Cloud", "Code", "Linux"]
+    title = "The Obsidian Order"
+    phrases = ["DevSecOps", "Cloud", "Code", "Linux"]
     links = [
     {name = "Github", url = "https://github.com/borninthedark/", newTab = true},
     {name = "Blog", url = "https://blog.princetonstrong.online/"},
     {name = "Gallery", url = "https://gallery.princetonstrong.online"},
-    {name = "Wiki", url = "https://wiki.princetonstrong.online"},
     
     ] 
     backgroundVideo= "bg.mp4"
-    footer = "It's easy to be a saint in paradise, but real engineers thrive in the imperfect & unknown - <a href='https://blog.princetonstrong.online/' target='_blank'>Princeton A. Strong</a>"
+    footer = "It's easy to be a saint in paradise, but real engineers thrive in the imperfect & unknown." - <a href='https://blog.princetonstrong.online/' target='_blank'>Princeton A. Strong</a>"
