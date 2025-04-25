@@ -3,8 +3,8 @@ languageCode = "en-us"
 theme = "glim-midnight"
 
 [params]
-    title = ""
-    phrases = ["DevSecOps", "Cloud", "Code", "Linux"]
+    title = "Deep Space Mine"
+    phrases = ["DevSecOps", "Microservices", "Python", "*Nix"]
     links = [
     {name = "Github", url = "https://github.com/borninthedark/", newTab = true},
     {name = "Blog", url = "https://blog.princetonstrong.online/"},
